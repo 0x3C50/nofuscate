@@ -1,5 +1,5 @@
 # Nofuscate
-Reverse engineering Py-Fuscate, one decompress at a time
+Defeating Py-Fuscate, one decompress at a time
 
 ![](img/demo.png)
 
