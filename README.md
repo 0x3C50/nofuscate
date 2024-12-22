@@ -1,5 +1,5 @@
 # Nofuscate
-Defeating Py-Fuscate, one decompress at a time
+Defeating Py-Fuscate
 
 ![](img/demo.png)
 
